@@ -1,0 +1,7 @@
+groq
+opencv-python-headless
+numpy
+SpeechRecognition
+openpyxl
+pyautogui
+pillow
